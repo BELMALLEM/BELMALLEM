@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/source.gif">
+  <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/source.gif">
 </p>
  
-##  Hey Profile Visitor :eyes:<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/source.gif" width="30px">
+##  Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=BELMALLEM alt=BELMALLEM/></p>
 
 
