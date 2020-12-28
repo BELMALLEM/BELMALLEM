@@ -22,7 +22,7 @@
 ### What are my featured projects:question::rocket:
 <code>[Best Lands in Casablanca](https://github.com/BELMALLEM/Best-Lands-to-buy-in-Casablanca)</code>:hourglass:     
 <code>[ChatBot](https://github.com/BELMALLEM/ChatBot)</code>:robot:  
-<code>[Nine-Mens-Morris Game with AI](https://github.com/BELMALLEM/Nine_Mens_Morris_AI)</code>     
+<code>[Nine-Mens-Morris Game with AI](https://github.com/BELMALLEM/Nine_Mens_Morris_AI)</code>:video_game:
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
@@ -34,4 +34,4 @@
 :star: <code>[Instagram](https://www.instagram.com/mrwn.bel/)</code>  
 :star: <code>[Facebook](https://www.facebook.com/marwan.fac.543/)</code>  
 
-## :smiley: U Can [hire me](mailto:marouane.belmallem@gmail.com) if you need my services!
+## :smiley: U Can [contact me](mailto:marouane.belmallem@gmail.com) if you need my services!
