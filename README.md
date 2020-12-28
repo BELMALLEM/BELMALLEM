@@ -34,4 +34,4 @@
 :star: <code>[Instagram](https://www.instagram.com/mrwn.bel/)</code>  
 :star: <code>[Facebook](https://www.facebook.com/marwan.fac.543/)</code>  
 
-## :smile: U Can hire me if you need my services!
+## :smiley: U Can [hire me](mailto:marouane.belmallem@gmail.com) if you need my services!
