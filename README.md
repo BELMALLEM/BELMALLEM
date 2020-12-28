@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/source.gif">
 </p>
  
-##  Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+##  Hey Profile Visitor :eyes:<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/source.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=BELMALLEM alt=BELMALLEM/></p>
 
 
@@ -17,7 +17,7 @@
 <code>* [Rotaract EHTP](https://www.facebook.com/rcehtp/) [TEDx Team Leader]</code>
   
 ### What am I learning:question::point_down:	
-<code>var topics = ["Problems Solving" , "Deep Learning" , "Python"];</code>
+<code>var topics = ["TensorFlow" , "Pytorch" , "Deep Learning" , "Python"];</code>
 
 ### What are my featured projects:question::rocket:
 <code>[Best Lands in Casablanca](https://github.com/BELMALLEM/Best-Lands-to-buy-in-Casablanca)</code>:hourglass:     
@@ -34,5 +34,4 @@
 :star: <code>[Instagram](https://www.instagram.com/mrwn.bel/)</code>  
 :star: <code>[Facebook](https://www.facebook.com/marwan.fac.543/)</code>  
 
-## :point_down: U Can hire me if you need my services!
-<a href="https://github.com/BELMALLEM" target="_blank"><img src="http://www.w3.org/2000/svg" alt="hire me" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+## :smile: U Can hire me if you need my services!
