@@ -29,9 +29,9 @@
 
 ### How to connect with me:question::email:
 :star: <code>[Mail](mailto:marouane.belmallem@gmail.com)</code>    
-:star: <code>[Twitter](https://www.instagram.com/mrwn.bel/)</code>  
+:star: <code>[Twitter](https://twitter.com/WoRoveCharisma)</code>  
 :star: <code>[LinkedIn](https://www.linkedin.com/in/marouane-belmallem/)</code>  
 :star: <code>[Instagram](https://www.instagram.com/mrwn.bel/)</code>  
 :star: <code>[Facebook](https://www.facebook.com/marwan.fac.543/)</code>  
 
-## :smiley: U Can [contact me](mailto:marouane.belmallem@gmail.com) if you need my services!
+## :smiley: Feel Free to [contact me](mailto:marouane.belmallem@gmail.com) if you need my services!
