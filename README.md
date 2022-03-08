@@ -25,7 +25,7 @@
 <code>[Nine-Mens-Morris Game with AI](https://github.com/BELMALLEM/Nine_Mens_Morris_AI)</code>:video_game:
 
 ### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
+<code>git commit -m "Pretty much nerd stuffs and Maths!"</code> :grin:
 
 ### How to connect with me:question::email:
 :star: <code>[Mail](mailto:marouane.belmallem@gmail.com)</code>    
@@ -34,4 +34,4 @@
 :star: <code>[Instagram](https://www.instagram.com/mrwn.bel/)</code>  
 :star: <code>[Facebook](https://www.facebook.com/marwan.fac.543/)</code>  
 
-## :smiley: Feel Free to [contact me](mailto:marouane.belmallem@gmail.com) if you need my services!
+## :smiley: Need me ? [contact me](mailto:marouane.belmallem@gmail.com)!
