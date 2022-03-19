@@ -21,9 +21,9 @@
 <code>var topics = ["Java" , "Spring" , "JS" , "React"];</code>
 
 ### What are my featured projects:question::rocket:
-<code>[Real-Estate loan simulator]()</code>:hourglass:   React + Spring   
-<code>[ChatBot](https://github.com/BELMALLEM/ChatBot)</code>:robot:   Python
-<code>[Nine-Mens-Morris Game with AI](https://github.com/BELMALLEM/Nine_Mens_Morris_AI)</code>:video_game:    C++
+<code>[Real-Estate loan simulator]()</code>:hourglass:  
+<code>[ChatBot](https://github.com/BELMALLEM/ChatBot)</code>:robot: 
+<code>[Nine-Mens-Morris Game with AI](https://github.com/BELMALLEM/Nine_Mens_Morris_AI)</code>:video_game:
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "Pretty much nerd stuffs and Maths!"</code> :grin:
