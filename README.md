@@ -9,18 +9,19 @@
 ### Wanna stalk my website:question::point_right: [Click Here](https://belmallem.netlify.app/):sparkles:
 
 ### Who am I:question: 
-<code>git commit -m "I'm a Data Scientist with good knowledge of Computer Science, from Morocco. Primarily interested in Coding and Deep Learning."</code>
+<code>git commit -m "I'm a software engineer with good knowledge of computer science. I'm from Morocco. Java Coding and Problem Solving are my primary interests."</code>
 
 ### Where did I work earlier:question::woman_technologist:
+<code>* [Leyton](https://leyton.com/) [Software Engineer]</code>  
 <code>* [VIGON Systems](https://vigonsystems.com/) [Machine Learning Intern]</code>    
 <code>* [MedYouIn](https://www.medyouin.ma/) [ChatBot Developement Intern]</code>    
 <code>* [Rotaract EHTP](https://www.facebook.com/rcehtp/) [TEDx Team Leader]</code>
   
 ### What am I learning:question::point_down:	
-<code>var topics = ["TensorFlow" , "Pytorch" , "Deep Learning" , "Python"];</code>
+<code>var topics = ["Java" , "Spring" , "JS" , "React"];</code>
 
 ### What are my featured projects:question::rocket:
-<code>[Best Lands in Casablanca](https://github.com/BELMALLEM/Best-Lands-to-buy-in-Casablanca)</code>:hourglass:     
+<code>[Real-Estate loan simulator]()</code>:hourglass:     
 <code>[ChatBot](https://github.com/BELMALLEM/ChatBot)</code>:robot:  
 <code>[Nine-Mens-Morris Game with AI](https://github.com/BELMALLEM/Nine_Mens_Morris_AI)</code>:video_game:
 
