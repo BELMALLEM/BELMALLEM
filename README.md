@@ -11,16 +11,17 @@
 ### Who am I:question: 
 <code>git commit -m "I'm a software engineer with good knowledge of computer science. I'm from Morocco. Java Coding and Problem Solving are my primary interests."</code>
 
-### Where did I work earlier:question::woman_technologist:
-<code>* [Leyton](https://leyton.com/) [Software Engineer]</code>  
+### Where did I work earlier❔👩‍💻
+<code>* [Capgemini](https://www.capgemini.com/)) [Software Engineer]</code>  
+<code>* [Leyton](https://leyton.com/) [Software Engineer Intern]</code>  
 <code>* [VIGON Systems](https://vigonsystems.com/) [Machine Learning Intern]</code>    
 <code>* [MedYouIn](https://www.medyouin.ma/) [ChatBot Developement Intern]</code>    
 <code>* [Rotaract EHTP](https://www.facebook.com/rcehtp/) [TEDx Team Leader]</code>
   
-### What am I learning:question::point_down:	
-<code>var topics = ["Java" , "Spring" , "JS" , "React"];</code>
+### What am I learning❔👇	
+<code>var topics = ["Java" , "Spring" , "JS/TS" , "Angular"];</code>
 
-### What are my featured projects:question::rocket:
+### What are my featured projects❔🚀
 <code>[Real-Estate loan simulator]()</code>:hourglass:  
 <code>[ChatBot](https://github.com/BELMALLEM/ChatBot)</code>:robot: 
 <code>[Nine-Mens-Morris Game with AI](https://github.com/BELMALLEM/Nine_Mens_Morris_AI)</code>:video_game:
